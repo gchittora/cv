@@ -7,7 +7,13 @@ h1 {
   font-family: 'Sacramento', cursive;
 
 }
-
+#design{
+  float: left;
+  border-radius: 50%;
+  height:300px;
+  width:300px;
+  margin: 30px 50px 150px auto;
+}
 .skill-row {
   width: 50%;
   left: 100px;
@@ -76,14 +82,6 @@ h2 {
   border-radius: 50%;
   margin: 70px auto 30px 30px;
   }
-
-.two {
-  float: left;
-  border-radius: 50%;
-  height:300px;
-  width:300px;
-  margin: auto 50px 150px auto;
-}
 
 .btn {
   background: #11cdd4;
