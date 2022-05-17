@@ -1,114 +1,68 @@
-h1 {
-  font-size: 70px;
-  color: #66BFBF;
-  width: 30%;
-  margin: 0 auto 0 auto;
-  margin-top: 50px;
-  font-family: 'Sacramento', cursive;
-
+body{
+  background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAD1BMVEX////19fXn5+fo6Ojl5eU/mVj3AAAAHElEQVR4AWMYkUDIEE3AxAlNQMUZTUBYcUSGFABtQAFVBCjxewAAAABJRU5ErkJggg==");
+  background-blend-mode: lighten;
+  font-family: Whyte, sans-serif;
 }
-#design{
-  float: left;
-  border-radius: 50%;
-  height:300px;
-  width:300px;
-  margin: 30px 50px 150px auto;
-}
-.skill-row {
-  width: 50%;
-  left: 100px;
-  height: 330px;
-  margin: 100px auto 100px auto;
-  line-height: 2;
-  }
-
-body {
-  background-color: #EAF6F6;
+h1{
+  font-family: Whyte, sans-serif;
   text-align: center;
-  padding-top: 100px;
-  font-family: 'Papyrus', fantasy;
-  font-size: 24px;
-  font-style: normal;
-  font-variant: normal;
-  font-weight: 700;
-  line-height: 26.4px;
+  font-size: 70px;
+}
+p{
+  text-align: center;
+  font-size: 45px;
+  font-weight: bold;
 }
 
-h3 {
-  color: #11999E;
-  font-size: 40px;
-  font-family: 'Square Peg', cursive;
+.first-p{
+  margin-bottom: 0;
 }
 
-.bottom-cloud {
-  position: absolute;
-}
-
-.top-cloud {
-  position: absolute;
-  right: 500px;
-  top: 50px;
-}
-
-h2 {
-  font-weight: normal;
-  color: #66BFBF;
-}
-
-.photo {
-  height: 300px;
-  width: 300px;
-}
-.top-container{
-  background-color: #EAF6F6;
+.second-p{
   margin-top: 0;
 }
-.bottom-container {
-  margin-top: 60px;
-  margin-bottom: 0;
-  padding:20px;
-  background-color: #66BFBF;
-  background-size: contain;
-  text-decoration:none;
-  color: #11999E;
+.zenith{
+   background: linear-gradient(to top, #0AA1DD 60%, transparent 50%);
 }
 
-.left-align {
-  text-align: left;
+.cybros{
+   background: linear-gradient(to top, #F9D923 60%, transparent 50%);
 }
 
-.one {
+.Garvit{
+  background-color: black;
+}
+
+.gc{
+ height: 350px;
+ width: 300px;
+}
+
+.Yatharth{
+  background-color: white;
+}
+
+.yj{
+
+  height: 350px;
+  width: 300px;
+}
+
+.Leeladhar{
+  background-color: black;
+}
+
+.ld{
+  height: 350px;
+  width: 300px;
+}
+
+.Reeshav{
+  background-color: white;
+}
+
+.rm{
   float: right;
-  border-radius: 50%;
-  margin: 70px auto 30px 30px;
-  }
-
-.btn {
-  background: #11cdd4;
-  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
-  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
-  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
-  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
-  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
-  -webkit-border-radius: 8;
-  -moz-border-radius: 8;
-  border-radius: 8px;
-  font-family: Arial;
-  color: #ffffff;
-  font-size: 20px;
-  padding: 10px 20px 10px 20px;
-  text-decoration: none;
-}
-
-.btn:hover {
-  background: #30e3cb;
-  background-image: -webkit-linear-gradient(top, #30e3cb,  #2bc4ad);
-  background-image: -moz-linear-gradient(top, #30e3cb,  #2bc4ad);
-  background-image: -ms-linear-gradient(top, #30e3cb,  #2bc4ad);
-  background-image: -o-linear-gradient(top, #30e3cb,  #2bc4ad);
-  background-image: linear-gradient(to bottom, #30e3cb,  #2bc4ad);
-  text-decoration: none;
-}
-.lastline{
-  color:#EAF6F6;
+  height: 350px;
+  width: 300px;
 }
